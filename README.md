@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nourhanOfTerra
-- 👀 I’m interested in artificial intelligence applications in different fields
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in artificial intelligence applications in medicine
+- 🌱 I’m currently a biomedical engineering master's degree student at UniOulu
 <!--- - 💞️ I’m looking to collaborate on ... 📫 How to reach me ... --->
 
 <!---
